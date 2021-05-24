@@ -1,0 +1,14 @@
+body{
+    background-color:#F8F8F8!important;
+}
+
+#profile-wrapper{
+    text-align: center;
+}
+
+#profile-pic{
+    width: 200px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
